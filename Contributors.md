@@ -17,7 +17,7 @@
 - fflobert
 - jenny heyyy
 - ankita mishra
-- celia
+- king
 - Oluwaseyi Kareem
 - aslam khan
 - annika wischnewsky (https://github.com/wischn)
